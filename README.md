@@ -23,6 +23,11 @@ Nr. of iterations: 3000
 
 Results included at the end of each notebok
 
+#inspirations:
+https://github.com/DEAP/deap/blob/master/examples/ga/tsp.py
+https://github.com/lmarti/evolutionary-computation-course/blob/master/AEC.03%20-%20Solving%20the%20TSP%20with%20GAs.ipynb
+https://medium.com/@pasdan/genetic-algorithm-the-travelling-salesman-problem-via-python-deap-f238e0dd1a73
+
 
 # Optimization and benchmarking of 6 different functions 
 The algortihm used for the optimization is a Differential Evlotion Algorithm.
