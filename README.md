@@ -8,6 +8,8 @@ And a continuos optimization problem of 6 algorithms
 
 All the code is written in simple one file notebooks and execution is done, just by simply executing the notebook
 
+Github link https://github.com/marciocourense/metaheuristics
+
 # TSP problem
 Main take aways:
 As in all TSP problems, all cities must be visited exactly once. Using the shortest path possible
